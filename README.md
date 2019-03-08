@@ -8,4 +8,4 @@ Every single component has been built using HTML, CSS and Javascript, using io.j
 The ticketing system couldn't be open sourced, since its heavily integrated with private payment APIs, but leaving the actual checkout aside, you can modify the most popular modules as you wish.
 
 Credits
-The JSConfAr Site, Game and Dashboards were developed by Aerolab.
+The  Site, Game and Dashboards were developed by Aerolab.
