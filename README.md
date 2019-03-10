@@ -5,7 +5,7 @@ This site has multiple modules, including a lot of SVG and CSS animations, a cus
 
 Every single component has been built using HTML, CSS and Javascript, using io.js for the backend and Socket.io for real time interactions.
 
-The ticketing system couldn't be open sourced, since its heavily integrated with private payment APIs, but leaving the actual checkout aside, you can modify the most popular modules as you wish.
+
 
 Credits
 The  Site, Game and Dashboards were developed by Aerolab.
