@@ -1,5 +1,3 @@
-# SpaceApps
-
 
 # NASA SPACE APPS CHALLENGE 2019
 
