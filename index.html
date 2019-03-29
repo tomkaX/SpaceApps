@@ -1341,7 +1341,7 @@ recheckStreamingTime();
         onPlayerDead: function(player){
 
           $('#game-over .share-twitter').attr('href', 'http://twitter.com/share?text='+ encodeURIComponent("I got "+ player.lifeScore +" points in the #JSConfAr game! Join me at") +"&url=https://www.jsconfar.com" );
-          $('#game-over .share-facebook').attr('href', 'http://www.facebook.com/sharer.php?u=https://www.jsconfar.com&t='+ encodeURIComponent("I got "+ player.lifeScore +" points in the JSConf Game!") );
+          $('#game-over .share-facebook').attr('href', 'http://www.facebook.com/sharer.php?u='+ encodeURIComponent("I got "+ player.lifeScore +" points in the Game!") );
 
           ga( 'send', 'event', 'toys', 'game', 'highscore', player.lifeScore +' points');
         },
