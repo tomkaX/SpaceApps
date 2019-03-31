@@ -2,6 +2,8 @@
 # NASA SPACE APPS CHALLENGE 2019
 
 18-20 October, Lviv
+DataArt Office
+
 https://2018.spaceappschallenge.org/locations/lviv
 
 Live demo: https://tomkax.github.io/
