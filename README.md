@@ -4,7 +4,7 @@
 18-20 October, Lviv
 DataArt Office
 
-https://2018.spaceappschallenge.org/locations/lviv
+https://2019.spaceappschallenge.org/locations/lviv
 
 Live demo: https://tomkax.github.io/
 
