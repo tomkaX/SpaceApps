@@ -1,7 +1,6 @@
 
 # NASA SPACE APPS CHALLENGE 2019
-
-#18-20 October, Lviv
+18-20 October, Lviv
 DataArt Office
 
 https://2019.spaceappschallenge.org/locations/lviv
