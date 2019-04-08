@@ -12,5 +12,4 @@ This site has multiple modules, including a lot of SVG and CSS animations, a cus
 
 Every single component has been built using HTML, CSS and Javascript, using io.js for the backend and Socket.io for real time interactions.
 
- credits
-The  Site, Game and Dashboards were developed by Aerolab.
+
